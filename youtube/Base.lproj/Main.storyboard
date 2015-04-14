@@ -31,6 +31,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ERi-IF-T43">
                                 <rect key="frame" x="116" y="260" width="81" height="30"/>
                                 <state key="normal" title="Show Label">
+                                    <color key="titleColor" red="1" green="0.29827374792445216" blue="0.67890887374888909" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -40,6 +41,7 @@
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dYN-03-WPL">
                                 <rect key="frame" x="123" y="344" width="74" height="30"/>
                                 <state key="normal" title="Hide Label">
+                                    <color key="titleColor" red="0.57639644936789491" green="1" blue="0.34954782083546609" alpha="1" colorSpace="calibratedRGB"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
